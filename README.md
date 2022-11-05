@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 Find Me on 
 Pluralsight https://app.pluralsight.com/profile/kyle-davis-15f
 Linkedin https://www.linkedin.com/in/-kyledavis/
+Tableau Public https://public.tableau.com/app/profile/kyle.davis92
