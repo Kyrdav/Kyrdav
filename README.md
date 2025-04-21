@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kyle Davis
-I'm a **program analyst** with 10+ years of experience supporting various federal agencies and the DoD. I specialize in **human capital analytics**, **program performance analysis**, and **data-driven decision-making**.
+I am a **program analyst** with 10+ years of experience supporting various federal agencies and the DoD. I specialize in **human capital analytics**, **program performance analysis**, and **data-driven decision-making**.
 ---
 ### 🔍 What I Do
 - Design data visualizations and dashboards using Power BI, Tableau, and Python
