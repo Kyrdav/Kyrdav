@@ -14,7 +14,7 @@ I'm a **program analyst** with 10+ years of experience supporting various federa
 - **Methodologies**: Agile, Scrum, Six Sigma, ITIL, Strategic Workforce Planning
 ---
 ### 📚 In Progress
-- Building a GitHub portfolio analytics projects 
+- Building a GitHub portfolio 
 - Completing a **Doctorate in Strategic Leadership (DSL)** to further integrate analytics with executive-level decision-making
 ---
 ### 📫 Let's Connect
