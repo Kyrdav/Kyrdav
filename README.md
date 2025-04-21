@@ -19,6 +19,6 @@ I'm a **program analyst** with 10+ years of experience supporting various federa
 ---
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/-kyledavis/)
-- 📧 davis_kyle@bah.com
+- 📧 Kyle.davis1@hotmail.com
 ---
 🔹 *"I believe the intersection of data, strategy, and people is where real change happens."*
