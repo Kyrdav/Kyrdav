@@ -5,17 +5,8 @@
 - Align analytics projects with **organizational goals** and **leadership decision-making**
 ---
 ### 🛠 Tools & Technologies
-- **Languages**: Python (Pandas, NumPy, Matplotlib), SQL
+- **Languages**: Python, SQL
 - **Analytics**: Jupyter Notebook, Power BI, Tableau
 - **Cloud & Data Tools**: AWS, Excel, HRIS systems
 - **Methodologies**: Agile, Scrum, Six Sigma, ITIL, Strategic Workforce Planning
----
-### 📚 In Progress
-- Building a GitHub portfolio 
-- Completing a **Doctorate in Strategic Leadership (DSL)** to further integrate analytics with executive-level decision-making
----
-### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/-kyledavis/)
-- 📧 Kyle.davis1@hotmail.com
----
-🔹 *"I believe the intersection of data, strategy, and people is where real change happens."*
+
